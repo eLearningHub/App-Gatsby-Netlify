@@ -1,0 +1,12 @@
+{
+  "name": "App-Gatsby-Netlify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:eLearningHub/App-Gatsby-Netlify.git",
+  "author": "Behzad Samadi <behzad.samadi@gmail.com>",
+  "license": "MIT",
+  "private":"true",
+  "workspaces": [
+    "packages/*"
+  ]
+}
